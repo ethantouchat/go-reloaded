@@ -1,4 +1,4 @@
-package entrée
+package entree
 
 import (
 	"fmt"
